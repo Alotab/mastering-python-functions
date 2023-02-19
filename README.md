@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/Alotab/mastering-python-functions/actions/workflows/main.yml/badge.svg)](https://github.com/Alotab/mastering-python-functions/actions/workflows/main.yml)
+
 # mastering-python-functions
 This is a repo for mastering Python functions
 
@@ -19,4 +21,3 @@ touch hellop.py
 chmod +x hello.py
 ./hello.py
 ```
-
