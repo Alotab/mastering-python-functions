@@ -18,8 +18,8 @@ def summarize_wikipedia(name):
 def get_text_blob(text):
     """Gets text blob object and returns"""
 
-    blob = TextBlob(text)
-    return blob
+    blob_text = TextBlob(text)
+    return blob_text
 
 
 def get_phrases(name):
