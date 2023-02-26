@@ -15,9 +15,12 @@ This is a repo for mastering Python functions
 * IPython (many prefer)
 
 ## Python Script
-
 ```
-touch hellop.py
+touch hello.py
 chmod +x hello.py
 ./hello.py
 ```
+
+# Build a Python library 
+* create a nlplogic folder
+* create a logic (corenlp.py) file inside the nlplogic folder
