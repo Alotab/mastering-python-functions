@@ -21,6 +21,6 @@ chmod +x hello.py
 ./hello.py
 ```
 
-# Build a Python library 
+## Build a Python library 
 * create a nlplogic folder
-* create a logic (corenlp.py) file inside the nlplogic folder
+- Inside the nlplogic folder, create a logic (corenlp.py) file.
