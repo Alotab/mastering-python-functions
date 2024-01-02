@@ -3,7 +3,7 @@ import wikipedia
 
 
 def search_wikipedia(name):
-    """Search wikipedia"""
+    """Search name on wikipedia"""
     print(f"Searching for name: {name}")
     return wikipedia.search(name)
 
